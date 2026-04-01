@@ -67,7 +67,7 @@ It simplifies the learning process by converting raw input into concise, exam-re
 <h2>🔄 Application Flow</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dhruvsharmads0506/GenNotesAI/main/assets/flow.png" 
+  <img src="assests/ChatGPT Image Apr 2, 2026, 01_47_00 AM.png" 
        alt="Application Flow" width="85%">
 </p>
 
