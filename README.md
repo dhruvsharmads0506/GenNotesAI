@@ -46,7 +46,7 @@ It simplifies the learning process by converting raw input into concise, exam-re
 <h2>🏗️ Architecture Diagram</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dhruvsharmads0506/GenNotesAI/main/assets/architecture.png" 
+  <img src="assests/appli.png" 
        alt="Architecture Diagram" width="85%">
 </p>
 
