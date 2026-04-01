@@ -90,7 +90,7 @@ It simplifies the learning process by converting raw input into concise, exam-re
 
 <h2>📸 Preview</h2>
 <p align="center">
-  <img src="https://via.placeholder.com/800x400.png?text=GenNotesAI+Preview" alt="App Preview" width="80%">
+  <img src="assests/Screenshot 2026-04-02 014049.png" alt="App Preview" width="80%">
 </p>
 
 <h2>🚀 Getting Started</h2>
